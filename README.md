@@ -1,5 +1,4 @@
-# scene-reconstruction
- Demo of an e-commerce store created with React.js and .Net
+# Demo of an e-commerce store created with React.js and .Net
 
 ## How to use
 - Download the project and create a docker image (Dockerfile is in the API folder)
