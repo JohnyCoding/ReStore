@@ -1,5 +1,7 @@
-# Demo of an e-commerce store created with React.js and .Net
-
 ## How to use
-- Download the project and create a docker image (Dockerfile is in the API folder)
-- Make sure you have a Postgres container running on port 5432 (check appsettings.json)
+- This project is configured to be run with Docker so make sure it is installed and running
+- Create a .env file in the root folder and populate keys (check the example env file)
+- Open a terminal window in the root folder and run
+```
+  docker compose up
+```
