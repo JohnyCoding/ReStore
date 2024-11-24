@@ -5,3 +5,8 @@
 ```
   docker compose up
 ```
+
+How the catalog looks:
+![image](https://github.com/user-attachments/assets/dccbda34-c592-4cae-8867-a8fd0749519f)
+
+Project created with .NET 8, Postgres Db, and React 18+ with TypeScript
